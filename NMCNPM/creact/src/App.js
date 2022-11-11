@@ -31,7 +31,6 @@ function App() {
       </nav>
     </div>
     </>
-    //commit
   );
 
 }
